@@ -12,7 +12,7 @@ public class AlunoController : ControllerBase
     public AlunoController()
     {
     }
-
+    //Get function
     [HttpGet]
     public ActionResult<List<Aluno>> GetAll() => AlunoService.GetAll();
 
