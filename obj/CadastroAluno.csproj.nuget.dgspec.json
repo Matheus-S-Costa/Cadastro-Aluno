@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/matheuscosta/Documents/CadastroAluno/CadastroAluno.csproj": {}
+    "/Users/matheuscosta/Documents/Cadastro-Aluno/CadastroAluno.csproj": {}
   },
   "projects": {
-    "/Users/matheuscosta/Documents/CadastroAluno/CadastroAluno.csproj": {
+    "/Users/matheuscosta/Documents/Cadastro-Aluno/CadastroAluno.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/matheuscosta/Documents/CadastroAluno/CadastroAluno.csproj",
+        "projectUniqueName": "/Users/matheuscosta/Documents/Cadastro-Aluno/CadastroAluno.csproj",
         "projectName": "CadastroAluno",
-        "projectPath": "/Users/matheuscosta/Documents/CadastroAluno/CadastroAluno.csproj",
+        "projectPath": "/Users/matheuscosta/Documents/Cadastro-Aluno/CadastroAluno.csproj",
         "packagesPath": "/Users/matheuscosta/.nuget/packages/",
-        "outputPath": "/Users/matheuscosta/Documents/CadastroAluno/obj/",
+        "outputPath": "/Users/matheuscosta/Documents/Cadastro-Aluno/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/matheuscosta/.nuget/NuGet/NuGet.Config"
